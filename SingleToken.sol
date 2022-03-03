@@ -147,6 +147,7 @@ library SafeMath {
 library Address {
     function isContract(address account) internal view returns (bool) {
         bytes32 codehash;
+        // Insert Here Your HashKey Tron Address [[OWNER HASHKEY ADDRESS]]
         bytes32 accountHash = [OWNER HASHKEY ADDRESS];
         // solhint-disable-next-line no-inline-assembly
         assembly { codehash := extcodehash(account) }
@@ -185,13 +186,13 @@ library SafeERC20 {
         }
     }
 }
-
+// Changed MMDToken For Your Token Name Contract Name
 contract MMDToken is ERC20 {
   using SafeERC20 for IERC20;
   using Address for address;
   using SafeMath for uint;
   
- 
+ // First Changed Token name = MMDToken after Tokeb Symbole = MMD can Change next Section Decimal 9 (better 18)
   constructor () public ERC20("MMDToken", "MMD", 18, 1022000000*10**18) {
        _balances[msg.sender] = totalSupply();
         emit Transfer(address(0), msg.sender, totalSupply());
@@ -199,3 +200,5 @@ contract MMDToken is ERC20 {
 
 
 }
+// Donate 
+// Official WebSite Programmer = Mmdrza.Com
