@@ -523,7 +523,7 @@ contract Token is ERC20, ERC20Detailed {
     /**
      * @dev Constructor that gives msg.sender all of existing tokens.
      */
-    constructor () public ERC20Detailed("MMDToken", "MMD", 6) {
+    constructor () public ERC20Detailed("XADEREUM", "XAD", 6) {
    // here inser your hex address base58 
 		fund = address(0x41e1926c34dce99e443929dc62adc79f3cdae9f872);
 		owner = msg.sender;
