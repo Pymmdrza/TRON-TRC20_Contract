@@ -1,5 +1,5 @@
 # TRON Smart Contract Single File :
-SingleContract/DS.sol :
+SingleContract/XADEREUM.sol :
 ```
 Contract Name:Token
 
@@ -9,27 +9,27 @@ Compiler version: solidity 0.5.10
 
 License: None
 ```
-### All Funcation DS.sol :
+### All Funcation XADEREUM.sol :
 
-`1.approve`
+`1.Approve`
 
-`2.removeWhiteList`
+`2.Remove WhiteList`
 
-`3.transferFrom`
+`3.Transfer From`
 
-`4.increaseAllowance`
+`4.increase Allowance`
 
-`5.burn`
+`5.BURN`
 
-`6.withdrawToken`
+`6.Withdraw Token`
 
-`7.decreaseAllowance`
+`7.Decrease Allowance`
 
-`8.transfer`
+`8.Transfer`
 
-`9.addWhiteList`
+`9.Add WhiteList`
 
-`10.transferOwnership`
+`10.Transfer Ownership`
 ____
 
 
