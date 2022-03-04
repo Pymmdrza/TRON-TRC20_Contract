@@ -9,6 +9,34 @@ Compiler version: solidity 0.5.10
 
 License: None
 ```
+### All Funcation DS.sol :
+
+`1.approve`
+
+`2.removeWhiteList`
+
+`3.transferFrom`
+
+`4.increaseAllowance`
+
+`5.burn`
+
+`6.withdrawToken`
+
+`7.decreaseAllowance`
+
+`8.transfer`
+
+`9.addWhiteList`
+
+`10.transferOwnership`
+____
+
+
+Contact Me `x4@Mmdrza.Com`
+
+____
+
 
 ## 🔰Donate :
 
