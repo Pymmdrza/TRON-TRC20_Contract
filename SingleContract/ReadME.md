@@ -1,5 +1,34 @@
 # TRON Smart Contract Single File :
-SingleContract/XADEREUM.sol :
+----
+## Single2.sol Contract (TRC20 TRON):
+
+```
+Contract Name : SingleToken
+
+Optimizartion : NO
+
+Compiler Version : Solidity 0.5.4
+
+License : None
+```
+
+### All Funcation Single2.sol :
+
+`1.approve`
+
+`2.transferFrom`
+
+`3.increaseAllowance`
+
+`4.decreaseAllowance`
+
+`5.transfer`
+
+
+
+
+----
+## SingleContract/XADEREUM.sol :
 ```
 Contract Name:Token
 
