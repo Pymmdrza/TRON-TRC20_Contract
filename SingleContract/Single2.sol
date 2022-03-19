@@ -224,12 +224,12 @@ contract SingleToken is ERC20 {
 
 
 
-*/
-* =========================[M M D Z A . C o M]==============================
-* Programmer M M D R Z A 
-* Web Mmdrza.Com
-* Dev.to/Mmdrza
-* Github.Com/Pymmdrza
-* Donate = Bitcoin 16p9y6EstGYcnofGNvUJMEGKiAWhAr1uR8
-* =========================[M M D Z A . C o M]========================
-*/
+/*
+ * =========================[M M D Z A . C o M]==============================
+ * Programmer M M D R Z A 
+ * Web Mmdrza.Com
+ * Dev.to/Mmdrza
+ * Github.Com/Pymmdrza
+ * Donate = Bitcoin 16p9y6EstGYcnofGNvUJMEGKiAWhAr1uR8
+ * =========================[M M D Z A . C o M]========================
+ */
